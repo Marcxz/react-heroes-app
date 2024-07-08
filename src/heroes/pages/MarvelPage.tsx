@@ -8,4 +8,6 @@ const MarvelPage = () => {
   )
 }
 
-export default MarvelPage
+export {
+    MarvelPage
+}

@@ -6,4 +6,6 @@ const DcPage = () => {
   )
 }
 
-export default DcPage
+export {
+    DcPage
+}
