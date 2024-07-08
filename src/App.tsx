@@ -1,9 +1,10 @@
 import './App.css';
+import AppRouter from './router/AppRouter';
 
 function App() {
   return (
     <>
-      <h1>Heroes App</h1>
+      <AppRouter />
     </>
   );
 }
