@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroList from '../components/HeroList'
+import { HeroList } from '../components'
 
 const MarvelPage = () => {
   return (

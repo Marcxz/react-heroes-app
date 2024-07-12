@@ -1,5 +1,4 @@
-import HeroList from "../components/HeroList"
-
+import { HeroList } from "../components"
 const DcPage = () => {
   return (
     <>
